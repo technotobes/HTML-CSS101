@@ -1,0 +1,96 @@
+body {
+    background-color: rgb(253, 253, 253);
+    width: 1000px;
+    height: 800px;
+    padding:0;
+    margin:0;
+}
+
+.greenbackground{
+    background-color: rgb(212, 248, 234);
+    width: 1000px;
+    height: 800px;
+    position:absolute;
+}
+
+header {
+    top: 0; 
+    background-color: black;
+    padding:5px; 
+    width: 1000px;
+    margin-left: -10px;
+    color: rgb(212, 248, 234);
+    text-indent: 75%;
+}
+
+.playscreen{
+    background-color: black;
+    height: 750px;
+    margin: 20px 20px 0px 20px;
+    padding-top: 30px;
+}
+
+
+
+
+td {
+    height:30px;
+    width:80px;
+}
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.bar{
+    background-color: rgb(212, 248, 234);
+    height:15px;
+    width: 120px;
+    position:absolute;
+    bottom:0;
+    left:45%;
+    margin-bottom: 2px;
+}
+
+.square {
+    background-color: white;
+    height:12px;
+    width:12px;
+    position: absolute;
+    top: 119px;
+    
+}
+
+.square2 {
+    background-color: white;
+    height:12px;
+    width:12px;
+    position: absolute;
+    top: 119px;
+    right: 184px;
+    
+}
+
+.square3 {
+    background-color: white;
+    height:12px;
+    width:12px;
+    position:absolute;
+    top:45%;
+    left:90px;
+}
