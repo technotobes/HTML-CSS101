@@ -1,0 +1,44 @@
+#container{
+    display:flex;
+}
+
+
+#rest_name{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#rest_sub{
+    font-size: 20px;
+}
+
+#navbarResponsive ul li a{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#review{
+    font-size: 50px;
+    font-weight: 500;
+    color:rgb(223, 145, 0);
+    
+    
+}
+
+#reviewer{
+    font-size: 30px;
+    font-weight: 400;
+    text-align: right;
+}
+
+#review_container{
+    padding-top: 50px;
+}
+
+#navbar{
+    padding: 10px;
+    padding-top: 30px;
+}
+
+
+
