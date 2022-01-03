@@ -43,6 +43,12 @@
         display:none;
     }
 
+    #contact_us_form{
+        padding-top: 10px;
+        padding-left: 120px;
+
+    }
+
 }
 
 
@@ -59,6 +65,13 @@
     #menu_carousel_2{
         display:none
     }
+
+    #contact_us_form{
+        padding-top: 10px;
+        padding-left: 100px;
+
+    }
+    
 }
 
 
@@ -74,6 +87,12 @@
     #menu_carousel_2{
         display:none
     }
+
+    #contact_us_form{
+        padding-top: 10px;
+        padding-right:200px;
+    }
+    
 }
 
 #container{
@@ -120,7 +139,6 @@
 
 #contact_us_form{
     padding-top: 10px;
-    padding-right:200px;
 }
 
 #buttonclick button{
