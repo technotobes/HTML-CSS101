@@ -137,6 +137,7 @@
 #faq-box p a{
     color:rgb(0, 0, 0);
     background-color: rgb(241, 164, 20);
+    width:60vw;
 }
 
 #faq-box{
@@ -148,4 +149,13 @@
 #social_icon img{
     width:7%;
     padding-top: 30px;
+}
+
+#map{
+    display: flex;
+    justify-content: center;
+}
+
+#nav_links li a{
+    margin: 7px;
 }
